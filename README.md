@@ -12,14 +12,9 @@ Esta é uma UI de um aplicativo móvel bancário simples, desenvolvido como part
 
 ## Estrutura do Projeto
 
-main.py
-src/
-|- components/
-|- grid_payments.py
-|- grid_transfers.py
-|- icons_expense.py
-|- expense.py
-
+- `main.py`: Arquivo principal do aplicativo que deve ser executado.
+- `src/components/`: Pasta contendo os componentes do aplicativo, incluindo `grid_payments.py`, `grid_transfers.py` e `icons_expense.py`.
+- `src/components/expense.py`: Arquivo da tela principal do aplicativo.
 
 ## Como Rodar o Projeto
 
