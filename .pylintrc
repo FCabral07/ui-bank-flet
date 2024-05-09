@@ -1,0 +1,13 @@
+disable =
+      W0105, # pointless-string-statement
+      W0719, # broad-exception-raised
+      C0303, # trailing-whitespace
+      C0116, # missing-function-docstring
+      W0611, # unused-import
+      C0114, # missing-module-docstring
+      E0015, # unrecognized-option
+      C0301, # line-too-long
+      W0612, # unused-variable
+      W0613, # unused-argument
+      W0718, # broad-exception-caught
+      W0603, # global-statement
